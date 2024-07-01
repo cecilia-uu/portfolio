@@ -1,2 +1,2 @@
 # portfolio
-hello, I'm Ceci.
+Hello, I'm Hui Kong.
